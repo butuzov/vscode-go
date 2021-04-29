@@ -457,7 +457,7 @@ export const allToolsInformation: { [key: string]: Tool } = {
 		name: 'fillstruct',
 		importPath: 'github.com/davidrjenni/reftools/cmd/fillstruct',
 		modulePath: 'github.com/davidrjenni/reftools',
-		replacedByGopls: true,
+		replacedByGopls: false,
 		isImportant: false,
 		description: 'Fill structs with defaults'
 	},
